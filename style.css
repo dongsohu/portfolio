@@ -31,13 +31,18 @@
 }
 .a{
     color:black;
+    font-family: 'Lobster Two', cursive;
 }
+
 .c{
     background-color:#EEB8CB;
     display: flex;
     justify-content: space-around;
+    font-family: 'Lobster Two', cursive;
     
-    
+}
+.b{
+font-family: 'Lobster Two', cursive;
 }
 #img2{
     padding-right: 100px;
@@ -49,4 +54,16 @@
 }
 h1{
 font-family: 'Lobster', cursive;
+}
+a{
+    color: white;
+    text-decoration-color: #825E5C;
+}
+#ab{
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+}
+#a1{
+    color: black;
+    text-decoration-color: #825E5C;
 }
