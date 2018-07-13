@@ -74,4 +74,15 @@ a{
 }
 #b1{
      font-family: 'Lobster Two', cursive;
+     background-image: url("background.jpg");
+     test-align:center;
+}
+.psu{
+    font-size: 35px;
+}
+#ab{
+font-size: 50px;
+}
+li{
+    font-size: 20px;
 }
