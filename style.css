@@ -1,6 +1,6 @@
 .row{   
 
-    background-color:#825E5C;
+    background-color:#9a56d4;
     color:white;
     font-size:20px;
     display: flex;
@@ -33,18 +33,19 @@
     color:black;
     font-family: 'Lobster Two', cursive;
     text-decoration: underline;
-    text-decoration-color: #825E5C;
+    
 }
 
 .c{
-    background-color:#EEB8CB;
+    background-color:#9a56d4;
     display: flex;
     justify-content: space-around;
     font-family: 'Lobster Two', cursive;
     
 }
 .b{
-font-family: 'Lobster Two', cursive;
+    font-family: 'Lobster Two', cursive;
+    
 }
 #img2{
     padding-right: 100px;
@@ -57,18 +58,13 @@ font-family: 'Lobster Two', cursive;
 h1{
 font-family: 'Lobster', cursive;
 }
-a{
-    color: white;
-    text-decoration-color: #825E5C;
+.a{
+    color: black;
+    
 }
 #ab{
     text-align: center;
     font-family: 'Kaushan Script', cursive;
-}
-#a1{
-    color: black;
-    text-decoration-color: #825E5C;
-  
 }
 #pro{
     color:black;
@@ -76,7 +72,7 @@ a{
 #b1{
      font-family: 'Lobster Two', cursive;
      background-image: url("background.jpg");
-    
+    text-align: center;
 }
 .psu{
     font-size: 35px;
@@ -87,9 +83,9 @@ font-size: 50px;
 li{
     font-size: 20px;
 }
-#school{
-    color: #cccccc;
+#abi{
+    color: white;
 }
-#lan{
-     color: #cccccc;
+#conti{
+    color:white;
 }
